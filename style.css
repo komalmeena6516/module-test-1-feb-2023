@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card-container .card img{
+    height: 250px;
+}
+@media screen and (max-width: 576px) {
+    .cards .card {
+        width: 100% !important;
+        margin-bottom: 1rem;
+    }
+    .cards .card:last-child {
+        margin-bottom: 0;
+    }
+}
+table tr {
+    justify-content:center ;
+    align-self: center;
+}
+.accord-box{
+    border-radius: 2px;
+}
