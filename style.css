@@ -21,7 +21,7 @@ table tr {
 .accord-box{
     border-radius: 2px;
 }
-table tr td a{
+table tr td a:link{
     margin-right: 1rem;
     text-decoration: none;
 }
