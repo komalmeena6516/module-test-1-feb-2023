@@ -21,3 +21,14 @@ table tr {
 .accord-box{
     border-radius: 2px;
 }
+table tr td a{
+    margin-right: 1rem;
+    text-decoration: none;
+}
+.table-box{
+width: 100%;
+overflow: auto;
+}
+table{
+  min-width: 900px;
+}
